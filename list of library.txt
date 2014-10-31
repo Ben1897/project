@@ -1,0 +1,4 @@
+libsbml
+numpy
+quantities
+rdflib
